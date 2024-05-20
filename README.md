@@ -5,5 +5,7 @@ Hello, I'm Cody. As of writing, I am currently studying coding in the hopes of t
 
 History of Projects / Learning Various Languages:
 
+Follow my learning journey on Developer Roadmaps: roadmap.sh/u/codyb34
+
 C++:
 05/18/2024 - Finished Codecademy's free C++ course.
