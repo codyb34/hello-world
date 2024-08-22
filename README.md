@@ -9,3 +9,6 @@ Follow my learning journey on Developer Roadmaps: roadmap.sh/u/codyb34
 
 C++:
 05/18/2024 - Finished Codecademy's free C++ course.
+
+HTML:
+08/21/2024 - Finished Codecademy's free HTML course.
