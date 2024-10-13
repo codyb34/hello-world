@@ -12,3 +12,6 @@ C++:
 
 HTML:
 08/21/2024 - Finished Codecademy's free HTML course.
+
+CSS:
+10/12/2024 - Finished Codecademy's free CSS course.
